@@ -3,7 +3,7 @@
 We're Making an Object Oriented Discord Api Wrapper for Deno.
 
 ### Why?
-Why are you making another Api Wrapper when we've `discordeno`?
+Why are you making another Api Wrapper when we've them?
 
 When we were making a bot using these api wrappers we struggled a lot due to outdated documentation and some weird functions.
 
